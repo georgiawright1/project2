@@ -31,7 +31,7 @@
     },
        
     {
-        "Honey O's Cereal",
+        "label" : "Honey O's Cereal",
         "ENERC_KCAL" : 160,
         "FAT" : 2.0,
         "NA" : 210,
@@ -46,7 +46,7 @@
     },
        
     {
-        "Joe's O's Cereal",
+        "label" : "Joe's O's Cereal",
         "ENERC_KCAL" : 160,
         "FAT" : 2.5,
         "NA" : 170,
@@ -61,7 +61,7 @@
     },
        
     {
-        "Strawberry Yogurt O's",
+        "label" : "Strawberry Yogurt O's",
         "ENERC_KCAL" : 120,
         "FAT" : 2.0,
         "NA" : 95,
@@ -76,7 +76,7 @@
     },
        
     {
-        "Maple Pecan Clusters Cereal",
+        "label" : "Maple Pecan Clusters Cereal",
         "ENERC_KCAL" : 230,
         "FAT" : 7.0,
         "NA" : 140,
@@ -91,7 +91,7 @@
     },
        
     {
-        "Crunchy Cinnamon Squares",
+        "label" : "Crunchy Cinnamon Squares",
         "ENERC_KCAL" : 160,
         "FAT" : 2.5,
         "NA" : 300,
