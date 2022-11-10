@@ -1,0 +1,108 @@
+tjs = {
+   "cereal": [
+    {
+        "label" : "Crispy Rice Cereal",
+        "ENERC_KCAL" : 150,
+        "FAT" : 0.0,
+        "NA" : 170,
+        "Carb" : 35.0,
+        "Fiber" : 0.0,
+        "SUGAR" : 4.0,
+        "Protein" : 3.0,
+        "Iron" : 0.3,
+        "Calcium" : 0.0,
+        "servingSize_gram" : 40,
+        "dataSource" : "Trader Joe's"
+    },
+
+    {
+        "label" : "Almond Butter Puffs Cereal",
+        "ENERC_KCAL" : 200,
+        "FAT" : 10.0,
+        "NA" : 80,
+        "Carb" : 20.0,
+        "Fiber" : 2.0,
+        "SUGAR" : 6.0,
+        "Protein" : 6.0,
+        "Iron" : 1.2,
+        "Calcium" : 60.0,
+        "servingSize_gram" : 40,
+        "dataSource" : "Trader Joe's"
+    },
+       
+    {
+        "Honey O's Cereal",
+        "ENERC_KCAL" : 160,
+        "FAT" : 2.0,
+        "NA" : 210,
+        "Carb" : 34.0,
+        "Fiber" : 2.0,
+        "SUGAR" : 14.0,
+        "Protein" : 3.0,
+        "Iron" : 5.4,
+        "Calcium" : 10.0,
+        "servingSize_gram" : 41,
+        "dataSource" : "Trader Joe's"
+    },
+       
+    {
+        "Joe's O's Cereal",
+        "ENERC_KCAL" : 160,
+        "FAT" : 2.5,
+        "NA" : 170,
+        "Carb" : 31.0,
+        "Fiber" : 4.0,
+        "SUGAR" : 2.0,
+        "Protein" : 5.0,
+        "Iron" : 8.1,
+        "Calcium" : 20.0,
+        "servingSize_gram" : 41,
+        "dataSource" : "Trader Joe's"
+    },
+       
+    {
+        "Strawberry Yogurt O's",
+        "ENERC_KCAL" : 120,
+        "FAT" : 2.0,
+        "NA" : 95,
+        "Carb" : 22.0,
+        "Fiber" : 1.0,
+        "SUGAR" : 8.0,
+        "Protein" : 2.0,
+        "Iron" : 5.0,
+        "Calcium" : 61.0,
+        "servingSize_cup" : 0.75,
+        "dataSource" : "Trader Joe's"
+    },
+       
+    {
+        "Maple Pecan Clusters Cereal",
+        "ENERC_KCAL" : 230,
+        "FAT" : 7.0,
+        "NA" : 140,
+        "Carb" : 39.0,
+        "Fiber" : 3.0,
+        "SUGAR" : 11.0,
+        "Protein" : 4.0,
+        "Iron" : 1.1,
+        "Calcium" : 0.0,
+        "servingSize_gram" : 53,
+        "dataSource" : "Trader Joe's"
+    },
+       
+    {
+        "Crunchy Cinnamon Squares",
+        "ENERC_KCAL" : 160,
+        "FAT" : 2.5,
+        "NA" : 300,
+        "Carb" : 32.0,
+        "Fiber" : 3.0,
+        "SUGAR" : 10.0,
+        "Protein" : 4.0,
+        "Iron" : 5.8,
+        "Calcium" : 130.0,
+        "servingSize_gram" : 40,
+        "dataSource" : "Trader Joe's"
+    }
+   ]
+       }
