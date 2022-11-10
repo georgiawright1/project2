@@ -1,5 +1,5 @@
-tjs = {
-   "cereal": [
+{
+   "tjs": [
     {
         "label" : "Crispy Rice Cereal",
         "ENERC_KCAL" : 150,
